@@ -1,1 +1,1 @@
-export * from './SpatialIndex';
+export * from './QuadTree';
